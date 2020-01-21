@@ -13,6 +13,8 @@ public class Student {
     
     private String name;
     private int studentID;
+    private String class;
+    private String grade;
 
     /**
      * Get the value of name
